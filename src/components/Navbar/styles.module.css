@@ -1,0 +1,15 @@
+.navbar {
+    height: 60px;
+    padding: 2em;
+    background-color: burlywood;
+}
+
+.navbarContent {
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+}
+
+.navbarContent a {
+font-weight: bold;
+}
